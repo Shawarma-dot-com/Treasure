@@ -1,2 +1,2 @@
 # Treasure
-Game which i created when i was learning python
+THis game was created as a project during my python course ('-')
